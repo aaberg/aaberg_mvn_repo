@@ -4,13 +4,14 @@
   <artifactId>sql2o</artifactId>
   <version>0.2.10</version>
   <versioning>
-    <release>0.2.13</release>
+    <release>0.2.14</release>
     <versions>
       <version>0.2.10</version>
       <version>0.2.11</version>
       <version>0.2.12</version>
       <version>0.2.13</version>
+      <version>0.2.14</version>
     </versions>
-    <lastUpdated>20111206093842</lastUpdated>
+    <lastUpdated>20111206115739</lastUpdated>
   </versioning>
 </metadata>
