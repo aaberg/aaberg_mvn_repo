@@ -4,7 +4,7 @@
   <artifactId>sql2o</artifactId>
   <version>0.2.10</version>
   <versioning>
-    <release>1.0-beta5</release>
+    <release>1.0-beta6</release>
     <versions>
       <version>0.2.10</version>
       <version>0.2.11</version>
@@ -18,7 +18,8 @@
       <version>1.0-beta3</version>
       <version>1.0-beta4</version>
       <version>1.0-beta5</version>
+      <version>1.0-beta6</version>
     </versions>
-    <lastUpdated>20120201093754</lastUpdated>
+    <lastUpdated>20120208100117</lastUpdated>
   </versioning>
 </metadata>
