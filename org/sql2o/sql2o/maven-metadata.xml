@@ -3,7 +3,7 @@
   <groupId>org.sql2o</groupId>
   <artifactId>sql2o</artifactId>
   <versioning>
-    <release>1.1.6</release>
+    <release>1.1.7</release>
     <versions>
       <version>0.2.10</version>
       <version>0.2.11</version>
@@ -28,7 +28,8 @@
       <version>1.1.4</version>
       <version>1.1.5</version>
       <version>1.1.6</version>
+      <version>1.1.7</version>
     </versions>
-    <lastUpdated>20130602110602</lastUpdated>
+    <lastUpdated>20130613221725</lastUpdated>
   </versioning>
 </metadata>
